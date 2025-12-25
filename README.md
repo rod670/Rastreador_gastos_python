@@ -50,6 +50,5 @@ El menú principal te permite navegar fácilmente:
 1. Agregar gasto
 2. Ver gastos y Filtros
 3. Salir
-'''
-
+```
 Rodrigo Gómez De La Torre - Estudiante de ingeniería de software
